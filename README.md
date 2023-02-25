@@ -60,3 +60,7 @@ the architecture.
 - install packages `m install`
 - run `m dev`
 - open swagger docs at `http://localhost:3000/docs`
+
+### Run Tests
+
+- `m test`
