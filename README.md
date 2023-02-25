@@ -44,6 +44,8 @@ the architecture.
 
 ## How To Run
 
+make sure you have node.js version 16 installed please
+
 ### Using Docker (preferred)
 
 - run:
