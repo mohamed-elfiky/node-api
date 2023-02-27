@@ -2,7 +2,7 @@
 
 ## Intro
 
-This not just a fix for issues inside handlers.ts it's overall refactoring
+This is not just a fix for the issues inside handlers.ts it's an overall refactoring
 
 ## Fixes and Refactoring
 
